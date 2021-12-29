@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @qurbaawicodes
+- 👀 I’m interested in ... Web Development and Robotics
+- 🌱 I’m currently learning ... Single Page Web Applications 
+- 💞️ I’m looking to collaborate on ... Any Web Development and Robotics Programming Projects
+- 📫 How to reach me ... LinkedIn https://www.linkedin.com/in/mohamud-mohamed-3442bb103/ and GitHub https://github.com/qurbaawicodes
